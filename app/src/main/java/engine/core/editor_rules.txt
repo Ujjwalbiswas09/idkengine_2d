@@ -1,0 +1,25 @@
+//invoke
+-100 == editor_mode_active
+0 == onCreate();
+1 == onIntialize();
+2 == onStart();
+
+4 == onPreUpdate();
+5 == onUpdate();
+6 == onPostUpdate();
+7 == onDisabledUpdate();
+
+8 == getCustomView(Context) view
+9 == supportSupportView; boolean
+10 == hasCustomWireMesh()boolean
+11 == getCustomWireMesh(); float[]
+12 == hasCustomIcon();boolean
+13 == getCustomIcon();String "/EditorResource/path"
+//getObject
+8 == Camera View Matrix;
+9 == Camera Projection Matrix;
+10 ==  Camera_Position;
+11 == Camera_Rotation;
+12 == Camera_fov;
+13 == ApplicationContext;
+14 == ProjectPath;

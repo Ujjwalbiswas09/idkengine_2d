@@ -1,0 +1,7 @@
+//cameraPosition Vector3
+//cameraDirection Vector3
+//cameraUp Vector3
+//cameraFov float
+//cameraTargetPosition; Vector3
+//selectedObject GameObject
+//activity Activity
